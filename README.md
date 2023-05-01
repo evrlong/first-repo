@@ -1,3 +1,2 @@
 # My first repo
-This is some text...
-Changes first
+This is my first assignment in Web and Communications Technology
